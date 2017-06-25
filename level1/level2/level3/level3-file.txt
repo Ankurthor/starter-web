@@ -1,0 +1,49 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Gist
+ @Ankurthor
+ Sign out
+ Watch 0
+  Star 0
+  Fork 2,089 Ankurthor/starter-web
+forked from scm-ninja/starter-web
+ Code  Pull requests 0  Projects 0  Wiki  Settings Insights 
+Simple starting point website project based upon Initializr Edit
+Add topics
+ 5 commits
+ 1 branch
+ 0 releases
+ 2 contributors
+ ApacheConf 73.2%	 HTML 24.5%	 JavaScript 1.8%	 CSS 0.5%
+ApacheConf	HTML	JavaScript	CSS
+Clone or download  Create new file Upload files Find file Branch: master New pull request
+ Pull request   Compare This branch is 1 commit ahead of scm-ninja:master.
+Latest commit f358c80  an hour ago @Ankurthor Ankurthor My first on this project AnkurS3
+css	Copying files from initializr project zip file and then creating simp…	3 years ago
+fonts	Copying files from initializr project zip file and then creating simp…	3 years ago
+js	Copying files from initializr project zip file and then creating simp…	3 years ago
+.htaccess	Copying files from initializr project zip file and then creating simp…	3 years ago
+404.html	Copying files from initializr project zip file and then creating simp…	3 years ago
+README.md	Adding Purpose section to README	2 years ago
+apple-touch-icon-precomposed.png	Copying files from initializr project zip file and then creating simp…	3 years ago
+crossdomain.xml	Copying files from initializr project zip file and then creating simp…	3 years ago
+favicon.ico	Copying files from initializr project zip file and then creating simp…	3 years ago
+hipster.txt	My first on this project AnkurS3	an hour ago
+humans.txt	Copying files from initializr project zip file and then creating simp…	3 years ago
+index.html	Copying files from initializr project zip file and then creating simp…	3 years ago
+robots.txt	Copying files from initializr project zip file and then creating simp…	3 years ago
+simple.html	Copying files from initializr project zip file and then creating simp…	3 years ago
+ README.md
+Starter Web Repo
+
+This repository is for showing how Git and GitHub work
+
+Purpose
+
+Sample website with plenty of files for demos
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
