@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    ANKURS3  Developer 
 
 # THANKS
 
