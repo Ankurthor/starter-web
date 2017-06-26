@@ -7,7 +7,7 @@ This repository is for showing how Git and GitHub work
 ## and how it works
 
 
-Adding a line for rebasing example
+Adding a line for rebasing example,mOre change from my feature branch too.
 please fork this repository and then issue pullRequest fo review.
 ## CopyRight 2017
 Sample website with plenty of files for demos
